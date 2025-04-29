@@ -8,11 +8,11 @@ You can run the program in one of three ways:
 --> bash test.sh input.txt
 
 input format:
-n         # Number of points
-x1 y1     # Point 1
-x2 y2     # Point 2
+n         : Number of points
+x1 y1     : Point 1
+x2 y2     : Point 2
 ...       
-xn yn     # Point n
+xn yn     : Point n
 
 ### 2. Provide a number for generating n points randomly
 ----> bash test.sh 400
@@ -36,10 +36,10 @@ You can run the program in one of three ways:
 --> bash test.sh n
 
 input format:
-x1 y1     # Point 1
-x2 y2     # Point 2
+x1 y1     : Point 1
+x2 y2     : Point 2
 ...       
-xn yn     # Point n
+xn yn     : Point n
 
 ### 2. Using custom input file inp1.txt
 ----> bash test.sh 
